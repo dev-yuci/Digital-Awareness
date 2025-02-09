@@ -1,9 +1,9 @@
 <h1 align="center">🌐 Digital Awareness Website Development</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/dev-yuci/Digital-Awareness-website?style=for-the-badge">
-  <img src="https://img.shields.io/github/repo-size/dev-yuci/Digital-Awareness-website?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/dev-yuci/Digital-Awareness-website?style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/top/dev-yuci/Digital-Awareness?style=for-the-badge">
+  <img src="https://img.shields.io/github/repo-size/dev-yuci/Digital-Awareness?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/dev-yuci/Digital-Awareness?style=for-the-badge">
 </p>
 
 <p align="center">
