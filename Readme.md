@@ -1,13 +1,13 @@
 <h1 align="center">🌐 Digital Awareness Website Development</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/username/digital-awareness-website?style=for-the-badge">
-  <img src="https://img.shields.io/github/repo-size/username/digital-awareness-website?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/username/digital-awareness-website?style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/top/dev-yuci/Digital-Awareness-website?style=for-the-badge">
+  <img src="https://img.shields.io/github/repo-size/dev-yuci/Digital-Awareness-website?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/dev-yuci/Digital-Awareness-website?style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://your-project-banner.com/banner.png" alt="Project Banner">
+  <img src="https://github.com/dev-yuci/Digital-Awareness/blob/master/DijitalFark%C4%B1ndal%C4%B1k-1.png" alt="Project Banner">
 </p>
 
 ## 🌟 **Project Overview**  
@@ -49,8 +49,13 @@ The **Digital Awareness Website** project focuses on designing and developing a 
 
 ## 📸 **Screenshots**  
 <p align="center">
-  <img src="https://your-screenshot-link.com/screenshot1.png" width="400">
-  <img src="https://your-screenshot-link.com/screenshot2.png" width="400">
+  <img src="https://github.com/dev-yuci/Digital-Awareness/blob/master/DijitalFark%C4%B1ndal%C4%B1k-1.png" width="400">
+  <img src="https://github.com/dev-yuci/Digital-Awareness/blob/master/DijitalFark%C4%B1ndal%C4%B1k-2.png" width="400">
+  <img src="https://github.com/dev-yuci/Digital-Awareness/blob/master/DijitalFark%C4%B1ndal%C4%B1k-3.png" width="400">
+  <img src="https://github.com/dev-yuci/Digital-Awareness/blob/master/DijitalFark%C4%B1ndal%C4%B1k-4.png" width="400">
+  <img src="https://github.com/dev-yuci/Digital-Awareness/blob/master/DijitalFark%C4%B1ndal%C4%B1k-5.png" width="400">
+  <img src="https://github.com/dev-yuci/Digital-Awareness/blob/master/DijitalFark%C4%B1ndal%C4%B1k-6.png" width="400">
+  <img src="https://github.com/dev-yuci/Digital-Awareness/blob/master/DijitalFark%C4%B1ndal%C4%B1k-7.png" width="400">
 </p>
 
 ---
@@ -61,7 +66,7 @@ Follow these steps to set up and run the project:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/username/digital-awareness-website.git
+git clone https://github.com/dev-yuci/Digital-Awareness-website.git
 
 # 2️⃣ Navigate to the project directory
 cd digital-awareness-website
